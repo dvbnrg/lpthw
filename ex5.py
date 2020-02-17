@@ -1,4 +1,4 @@
-name = 'justdave'
+name = 'just dave'
 age = 28
 height = 67
 convertedHeight = height * 2.54
